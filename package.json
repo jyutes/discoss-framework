@@ -1,0 +1,13 @@
+{
+  "name": "discoss-framework",
+  "version": "1.0.0",
+  "main": "module.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.4.0"
+  }
+}
